@@ -8,4 +8,4 @@ Consiste em uma tela da Netflix onde apresenta os catálogos de filmes.
 
 ## Resultado final
 
-- [Kenzieflix](https://helogizzy.github.io/KenzieFlix/)
+- [Kenzieflix](https://helogizzy.github.io/LandingPageKenzieFlix/)
